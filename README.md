@@ -1,2 +1,0 @@
-# mflix
-mongodb movies website
